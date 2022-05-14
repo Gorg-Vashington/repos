@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello!
+=======
+Hello, world!
+Hello, gorg!!!
+>>>>>>> 267bbb462e1de499c39861fe4b995c7bfbcf8083
